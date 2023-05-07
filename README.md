@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dua'a Melhem
+- 👋 Hi, I’m ✨Dua'a Melhem✨
 - 👀 I’m interested in developing websites
 - 🌱 I’m currently learning Python web development
 - 💞️ I’m looking to collaborate on exciting projects
