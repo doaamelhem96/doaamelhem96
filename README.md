@@ -1,5 +1,5 @@
- Firstly I would like to send My speacial greetings to all visitors 
-- 👋 Hi, I’m **Dua'a Melhem**
+👋👋 Firstly I would like to send My **speacial greetings** to all visitors 
+- 👋 This is **Dua'a Melhem**
 - 👀 I’m interested in developing websites
 - 🌱 I’m currently learning Python web development
 - 💞️ I’m looking to collaborate on exciting projects
