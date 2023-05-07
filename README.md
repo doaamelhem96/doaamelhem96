@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python web development
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me: send me a message at DrDuaaMelhem@gmail.com
-                   Best regards
+                   ***Best regards***
             ✨ **Dr-Dua'a Melhem** ✨
 <!---
 doaamelhem96/doaamelhem96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
