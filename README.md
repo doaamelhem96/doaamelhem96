@@ -6,10 +6,9 @@
 - 📫 How to reach me: send me a message at DrDuaaMelhem@gmail.com   
 -   [![Dreamer](https://img.youtube.com/vi/IwzkfMmNMpM/0.jpg)](https://www.youtube.com/watch?v=IwzkfMmNMpM)
 -   -----------------
--   *****************
 -   ***Best regards***
 -    ✨ **Dr-Dua'a Melhem** ✨
--    ******
+
 <!---
 doaamelhem96/doaamelhem96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
