@@ -3,8 +3,8 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Dua'a.<br>
-        Currently learning to walk in ML/DL without falling on my bottom.<br>
+        I'm Dua'a Melhem.<br>
+        Currently learning to walk in Devloping software by python .<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/duaa-melhem">
