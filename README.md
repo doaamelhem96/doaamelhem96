@@ -4,7 +4,8 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Dua'a Melhem.<br>
-        Currently learning to walk in Full_Stack software Developer by python Langauge .<br>
+        Currently learning to walk in Full_Stack software Developer by python Langauge👩‍💻
+ .<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/duaa-melhem">
